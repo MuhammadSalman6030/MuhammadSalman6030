@@ -19,7 +19,7 @@
 
 <div align="center">
   
-🧠 Working on **LLM Integration, RAG Architectures, Computer Vision** 🌱 Exploring **Scalable MLOps, Docker, & AWS** 🤝 Open to collaborate on **Full-Stack & AI-driven production systems** 💬 Ask me about **Node.js, React, FastAPI & Advanced Python**
+🧠 Working on **LLM Integration, RAG Architectures, Computer Vision** 🌱 Exploring **Scalable MLOps, Docker, & AWS** 🤝 Open to collaborate on **Full-Stack & AI-driven production systems** 💬 Ask me about **Node.js, React, FastAPI & Advanced Python and ML**
 
 </div>
 
