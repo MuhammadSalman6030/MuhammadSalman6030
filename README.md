@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-  <em>"Architecting end-to-end digital systems that bridge the gap between complex ML models and high-performance user platforms."</em>
+  <em>"Architecting end-to-end digital systems that bridge the gap between complex ML models and high-performance user platforms Acting."</em>
 </p>
 
 <div align="center">
