@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&lines=Senior+Full+Stack+AI+Developer;Machine+Learning+Specialist;MERN+Stack+Expert;Advanced+Python+Developer" alt="Typing SVG" />
 </div>
 
+
 <br>
 
 ## 🎯 About Me
