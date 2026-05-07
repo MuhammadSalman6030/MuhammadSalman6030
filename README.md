@@ -10,9 +10,7 @@
 <br>
 
 ## 🎯 About Me
-<div align="center">
-  <img src="./Christian-Dior.gif" width="500" alt="AI Animation"/>
-</div>
+
 
 <p align="center">
   <em>"Architecting end-to-end digital systems that bridge the gap between complex ML models and high-performance user platforms. "</em>
